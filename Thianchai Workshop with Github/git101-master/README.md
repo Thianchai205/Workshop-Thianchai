@@ -3,4 +3,4 @@
 demo git repository
 please read
 
-- Thianchai Panyalek (6/8/64 01:44)
+- Thianchai Panyalek (1/8/64 01:44)
